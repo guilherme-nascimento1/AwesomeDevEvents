@@ -1,5 +1,5 @@
-AwesomeDevEvents - Curso Criando REST APIs com ASP.NET Core
-Est· sendo desenvolvido um projeto de eventos de programaÁ„o, utilizando ASP.NET Core 7.
+AwesomeDevEvents - Projeto Criando REST APIs com ASP.NET Core
+Est√° sendo desenvolvido um projeto de eventos de programa√ß√£o, utilizando ASP.NET Core 7.
 
 Tecnologias e ferramentas utilizadas
 Visual Studio 2022
@@ -8,5 +8,5 @@ EF Core
 Swagger
 AutoMapper
 Funcionalidades
-Cadastro, Listagem, Detalhes, AtualizaÁ„o, e RemoÁ„o de Evento
+Cadastro, Listagem, Detalhes, Atualiza√ß√£o, e Remo√ß√£o de Evento
 Cadastro de palestrantes
